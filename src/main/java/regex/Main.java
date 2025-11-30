@@ -49,7 +49,7 @@ public class Main {
     /**
      * Returns a list of email addresses that occur in a given string.
      *
-     * @param str the string to look for email addresses in
+     * @param str the string to look for email addresses i
      * @return a list containing the email addresses in the string.
      */
     public static List<String> extractEmails(String str) {
